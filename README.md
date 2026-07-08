@@ -45,3 +45,5 @@ The resulting output presents a clean, operational dashboard optimized for execu
 | Timestamp | Assumed Identity | API Action Attempted | Target Asset ID / ARN | Outcome Status | Source IP Address |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 7/7/2026 15:19| intern-alex | ec2:StopInstances | arn:aws:ec2:us-east-2:756418066268:instance/i-02dcde28da1123f7d | Access Denied (Policy Enforced) | 38.32.143.170 |
+## 📊 Pipeline Dashboard Deliverable
+![Excel Triage Matrix Dashboard](triage_matrix_screenshot.png)
